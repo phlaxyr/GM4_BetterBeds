@@ -3,3 +3,6 @@ wake-time: 23450
 
 # Delay before sleeping starts; 200 ticks = 10 seconds
 sleep-delay: 200
+
+# Message when sleeping
+sleeping-msg: is now sleeping.
